@@ -3,7 +3,7 @@
 
 - 🌩️ 𝐂𝐥𝐨𝐮𝐝 > **AWS (EC2, S3, Lambda, RDS, Route 53) | Azure |**
 
-- 💻 Internship Experience > **AI Data Quality Analyst Intern | AI Green Technology Intern – Shell Edunet (Remote)|**
+- 💻 Experience > **AWS Cloud DevOps Engineer - Rapyder Cloud Solutions | AI Green Technology Intern – Shell Edunet (Remote)|**
 
 - 🧰 𝐃𝐞𝐯𝐎𝐩𝐬 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 > **Docker | Kubernetes | Jenkins | Maven | SonarQube | Nexus | Terraform | Ansible | GitHub Actions | Linux | CI/CD | Bash**
 
