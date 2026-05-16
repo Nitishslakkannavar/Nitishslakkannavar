@@ -1,5 +1,5 @@
 <h1 align="center">🅷🅴🆈!, I'm Nitish S Lakkannavar</h1>
-<h3 align="center">𝔸spiring Cloud & DevOps Engineer | AI & Data Analytics Enthusiast</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS Certified Solutions Architect </h3>
 
 - 🌩️ 𝐂𝐥𝐨𝐮𝐝 > **AWS (EC2, S3, Lambda, RDS, Route 53) | Azure |**
 
